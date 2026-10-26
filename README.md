@@ -107,9 +107,8 @@ Learn → Understand → Build → Break → Debug → Optimize → Test → Dep
 ## 📫 Connect With Me
 
 - 📧 Email: shakilochieng@gmail.com
-- 💼 LinkedIn: [shakil-developsanddesign](https://www.linkedin.com/in/shakil-developsanddesign/)
-- 🐦 X (Twitter): [@_0xshakil](https://x.com/_0xshakil)
-- 💻 GitHub: [0xshakilKE](https://github.com/0xshakilKE)
+- 💼 LinkedIn: [shakil-developsanddesign](https://www.linkedin.com/in/0xshakil/)
+- 💻 GitHub: [0xshakilKE](https://github.com/theshakil)
 
 ---
 
